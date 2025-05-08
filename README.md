@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @skyloveljf
+- 👋 Hi, I’m a student from heu 
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 📫 contact me by codingsky899@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
